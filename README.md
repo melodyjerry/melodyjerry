@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=melodyjerry&show_icons=true)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=melodyjerry&hide=["contribs","prs"])
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
