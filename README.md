@@ -1,6 +1,6 @@
 ### Hi！👋
 ## I'm MelodyJerry, a IT-boy.
-## Welcome to my blog: melodyhub.ltd.
+## Welcome to my blog: [melodyhub.ltd](https://melodyhub.ltd/).
 
 <!--
 **melodyjerry/melodyjerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
