@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ![MelodyJerry's github stats](https://github-readme-stats.vercel.app/api?username=melodyjerry&show_icons=true&theme=radical)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=melodyjerry&layout=compact&theme=dracula)
