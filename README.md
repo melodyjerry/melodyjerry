@@ -1,10 +1,10 @@
 ### Hi！👋
 ## I'm MelodyJerry, a IT-boy.
 ## Welcome to 
-my CSDN: [MelodyJerry的CSDN](https://blog.csdn.net/weixin_43438052/article/details/113478849)
-my BLOG: [melodyjerry.top](http://melodyjerry.top/)
-my github_blog: [melodyhub.ltd](https://melodyhub.ltd/)
-my CNBlog: [博客园](https://www.cnblogs.com/melodyjerry/p/13305991.html)
+- my CSDN: [MelodyJerry的CSDN](https://blog.csdn.net/weixin_43438052/article/details/113478849)
+- my BLOG: [melodyjerry.top](http://melodyjerry.top/)
+- my github_blog: [melodyhub.ltd](https://melodyhub.ltd/)
+- my CNBlog: [博客园](https://www.cnblogs.com/melodyjerry/p/13305991.html)
 
 <!--
 **melodyjerry/melodyjerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
