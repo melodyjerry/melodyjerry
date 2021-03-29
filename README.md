@@ -1,5 +1,6 @@
 ### Hi！<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-## I'm <font color="#0000C0">M</font><font color="#1717D7">e</font><font color="#2E2EEE">l</font><font color="#4545FF">o</font><font color="#5C5CFF">d</font><font color="#7373FF">y</font><font color="#8A8AFF">J</font><font color="#A1A1FF">e</font><font color="#B8B8FF">r</font><font color="#CFC0FF">r</font><font color="#E6C0FF">y</font>, a IT-boy.
+## I'm 
+<font color="#0000C0">M</font><font color="#1717D7">e</font><font color="#2E2EEE">l</font><font color="#4545FF">o</font><font color="#5C5CFF">d</font><font color="#7373FF">y</font><font color="#8A8AFF">J</font><font color="#A1A1FF">e</font><font color="#B8B8FF">r</font><font color="#CFC0FF">r</font><font color="#E6C0FF">y</font>, a IT-boy.
 ### Welcome to 
 - my CSDN: [MelodyJerry的CSDN](https://blog.csdn.net/weixin_43438052/article/details/113478849)
 - my BLOG: [melodyjerry.top](http://melodyjerry.top/)
