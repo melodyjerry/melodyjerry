@@ -86,8 +86,8 @@ Here are some ideas to get you started:
 
 
 -->
-
-<p align="left">
+<br>
+<p align="center">
 <img alt="ouuan's github stats" height='220' src="https://github-readme-stats.vercel.app/api?username=melodyjerry&show_icons=true&include_all_commits=true&theme=radical">
 <img alt="ouuan's github stats" height='220' src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodyjerry&theme=radical">
 </p>
