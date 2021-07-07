@@ -95,3 +95,6 @@ Here are some ideas to get you started:
 <!--![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=melodyjerry&layout=compact&theme=dracula)-->
 
 <!--[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)-->
+
+## 每日随机壁纸
+[![每日壁纸](https://cn.bing.com/th?id=OHR.LakeUrmia_ZH-CN4941337431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.jixiaokang.com)
