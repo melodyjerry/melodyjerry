@@ -92,6 +92,8 @@ Here are some ideas to get you started:
 <img alt="ouuan's github stats" height='220' src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodyjerry&theme=radical">
 </p>
 
+ ![Metrics](github-metrics.svg)
+
 <!--![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=melodyjerry&layout=compact&theme=dracula)-->
 
 <!--[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)-->
