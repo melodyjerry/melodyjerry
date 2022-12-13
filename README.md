@@ -93,6 +93,8 @@ Here are some ideas to get you started:
 </p>
 
  ![Metrics](github-metrics.svg)
+ 
+ ![babbittry's GitHub stats](https://life-progress-bar.vercel.app/api/?username=melodyjerry&locale=cn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=melodyjerry&layout=compact&theme=dracula)-->
 
