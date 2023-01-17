@@ -102,3 +102,6 @@ Here are some ideas to get you started:
 
 ## 每日随机壁纸
 [![每日壁纸](https://cn.bing.com/th?id=OHR.LakeUrmia_ZH-CN4941337431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.jixiaokang.com)
+
+## 项目发展趋势
+[![Stargazers over time](https://starchart.cc/melodyjerry/melodyjerry.svg)](https://starchart.cc/melodyjerry/melodyjerry)
